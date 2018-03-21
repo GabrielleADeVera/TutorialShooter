@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PickUps/HealthPickUp.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PickUps/PickUpsManager.cs" Line="33" Column="22" />
+      <File FileName="Assets/Scripts/Managers/EnemyManager.cs" Line="18" Column="19" />
+      <File FileName="Assets/Scripts/PickUps/HealthPickUp.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player/PlayerPickUps.cs" Line="19" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
